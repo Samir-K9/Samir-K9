@@ -47,7 +47,7 @@ My journey in computer science has fueled a strong passion for cybersecurity, an
 </div>
 
 ## Certifications
-Currently working on CompTIA Security+
+CompTIA Security+
 
 ## Projects
 - SOC Automation Project

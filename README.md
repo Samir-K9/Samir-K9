@@ -12,9 +12,11 @@ My journey in computer science has fueled a strong passion for cybersecurity, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab / Active Directory Project|
+| Incident Response Planning and Execution      | SOC Automation Lab / Active Directory Project|
 | Case Management with TheHive                  | SOC Automation Lab|
+| Active Directory Administration and Monitoring| Active Directory Project|
+| Splunk Log Analysis & Threat Investigation    | Splunk Capstone Report|
 
 ### Network
 <div>
@@ -47,7 +49,11 @@ My journey in computer science has fueled a strong passion for cybersecurity, an
 </div>
 
 ## Certifications
-CompTIA Security+
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA3C2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ## Projects
-- SOC Automation Project
+- [SOC Automation Lab](https://github.com/Samir-K9/SOC-Automation-Lab)
+- [Active Directory Project](https://github.com/Samir-K9/Active-Directory-Project)   
+- [Splunk Capstone Report](https://github.com/Samir-K9/Splunk-Capstone-Report) 

@@ -1,5 +1,5 @@
 # Hello, I'm Samir!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/samir-khadka-176868345/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently pursuing a Master's in Information Systems Security Management, and I'm passionate about cybersecurity and information protection. As an aspiring Security Analyst, I focus on areas such as network security, governance, risk and compliance, vulnerability assessment, risk management, and incident response.
 

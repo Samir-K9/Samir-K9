@@ -64,3 +64,4 @@ My journey in computer science has fueled a strong passion for cybersecurity, an
 - [SOC Automation Lab](https://github.com/Samir-K9/SOC-Automation-Lab)
 - [Active Directory Project](https://github.com/Samir-K9/Active-Directory-Project)   
 - [Splunk Capstone Report](https://github.com/Samir-K9/Splunk-Capstone-Report) 
+- [Azure Sentinel XDR Labs](https://github.com/Samir-K9/Azure-Sentinel-XDR-Labs)

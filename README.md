@@ -9,14 +9,21 @@ I am currently pursuing a Master's in Information Systems Security Management, a
 My journey in computer science has fueled a strong passion for cybersecurity, and I am now focused on transitioning into this field. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in real-time threat monitoring and incident response.
 
 ## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab / Active Directory Project|
-| Incident Response Planning and Execution      | SOC Automation Lab / Active Directory Project|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Active Directory Administration and Monitoring| Active Directory Project|
-| Splunk Log Analysis & Threat Investigation    | Splunk Capstone Report|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab / Active Directory Project |
+| Incident Response Planning and Execution      | SOC Automation Lab / Active Directory Project |
+| Case Management with TheHive                  | SOC Automation Lab |
+| Active Directory Administration and Monitoring| Active Directory Project |
+| Splunk Log Analysis & Threat Investigation    | Splunk Capstone Report |
+| SIEM Setup & Log Ingestion                    | Azure Sentinel XDR Labs — Mini Project 01 |
+| KQL Threat Detection & Analytics Rules        | Azure Sentinel XDR Labs — Mini Project 01 |
+| Email Threat Detection & Phishing Simulation  | Azure Sentinel XDR Labs — Mini Project 02 |
+| Email Security Policy Configuration           | Azure Sentinel XDR Labs — Mini Project 02 |
+| Endpoint Onboarding & Device Management       | Azure Sentinel XDR Labs — Mini Project 03 |
+| Attack Surface Reduction & Threat Simulation  | Azure Sentinel XDR Labs — Mini Project 03 |
+| Conditional Access & Identity Protection      | Azure Sentinel XDR Labs — Mini Project 04 |
+| Incident Reporting & SOC Investigation        | Azure Sentinel XDR Labs — Mini Projects 01–04 |
 
 ### Network
 <div>
